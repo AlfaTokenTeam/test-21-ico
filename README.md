@@ -1,2 +1,11 @@
-# test-21-ico
-Test21 ICO Smart Contract
+# Test21 ICO Smart Contract
+
+## Common
+
+This is an implementation of the Ethereum ERC20 smart-contract is used by project Test21
+
+<b>Plugins / 3rd party tools:</b>
+
+[https://github.com/OpenZeppelin/zeppelin-solidity/](https://github.com/OpenZeppelin/zeppelin-solidity/)
+
+[https://github.com/TokenMarketNet/ico](https://github.com/TokenMarketNet/ico)
